@@ -14,3 +14,4 @@ Imports:
 License: GPL-3
 LazyData: true
 URL: WorldWideWeb
+RoxygenNote: 5.0.1
